@@ -1,1 +1,1 @@
-idna
+httplib2==0.18.1
